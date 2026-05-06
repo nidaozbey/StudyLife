@@ -1,50 +1,45 @@
-# Welcome to your Expo app 👋
+# 🎓 StudyLife: AI-Driven Academic Companion
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+StudyLife, öğrencilerin akademik başarılarını artırmak, alışkanlıklarını yönetmek ve sınav süreçlerini yapay zeka desteğiyle optimize etmek için tasarlanmış modern bir mobil asistan uygulamasıdır.
 
-## Get started
+## ✨ Öne Çıkan Özellikler
 
-1. Install dependencies
+- **🤖 AI Study Buddy:** Seninle konuşan, ders çalışma stratejileri geliştiren ve motivasyon veren yapay zeka asistanı.
+- **📅 Akıllı Ders Planlayıcı:** Sınav tarihlerine ve ders yoğunluğuna göre dinamik çalışma planları.
+- **🏆 Oyunlaştırma:** Görevleri tamamla, rozetleri kazan ve arkadaşlarınla liderlik tablosunda yarış!
+- **📊 Analitik Takip:** Devamsızlık risk analizi, sınav hazırlık durum göstergeleri ve haftalık aktivite grafikleri.
+- **🌙 Premium Karanlık Arayüz:** Göz yormayan, modern ve şık "Dark Mode" tasarımı.
 
+## 🛠️ Kullanılan Teknolojiler
+
+- **Core:** React Native / Expo
+- **Styling:** Custom UI Components & Glassmorphism
+- **Storage:** AsyncStorage (Yerel Veri Saklama)
+- **Icons:** Lucide React Native / Expo Icons
+
+## 🚀 Kurulum ve Çalıştırma
+
+Projeyi yerel bilgisayarınızda çalıştırmak için şu adımları izleyin:
+
+1. Depoyu klonlayın:
+   ```bash
+   git clone https://github.com/nidaozbey/StudyLife.git
+   ```
+2. Proje dizinine gidin:
+   ```bash
+   cd StudyLife
+   ```
+3. Bağımlılıkları yükleyin:
    ```bash
    npm install
    ```
-
-2. Start the app
-
+4. Uygulamayı başlatın:
    ```bash
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## 📸 Ekran Görüntüleri
+*(Yakında buraya uygulama içi görseller eklenecektir)*
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+Developed with ❤️ by [nidaozbey](https://github.com/nidaozbey)
