@@ -89,6 +89,14 @@ src/
   </tr>
 </table>
 
+## 🗺️ Gelecek Vizyonu (Roadmap)
+
+StudyLife'ı sürekli geliştirmeye devam ediyorum. Yakın gelecekte eklemeyi planladığım özellikler:
+- [ ] **☁️ Cloud Sync:** Kullanıcı verilerinin farklı cihazlar arasında senkronize edilmesi (Firebase/AWS Integration).
+- [ ] **⌚ Wearable Integration:** Apple Watch ve Android Wear üzerinden çalışma sürelerinin takibi.
+- [ ] **📑 PDF Report Engine:** Akademik performansın detaylı PDF raporu olarak dışa aktarılması.
+- [ ] **🎙️ Voice AI:** Sesli komutlar ile ders programı sorgulama ve asistan etkileşimi.
+
 ## 🏁 Başlangıç
 
 ### Gereksinimler
