@@ -93,5 +93,5 @@ src/
 ---
 <p align="center">
   <b>Nida Özbey</b> tarafından geliştirilmiştir.<br/>
-  <i>Bilgisayar Mühendisliği Öğrencisi & Ürün Geliştirici</i>
+  <i>Bilgisayar Mühendisliği Öğrencisi</i>
 </p>
