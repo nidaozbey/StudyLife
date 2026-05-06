@@ -77,6 +77,16 @@ src/
     <td><b>Odaklanma Sayacı</b></td>
     <td><b>Ders Yönetimi</b></td>
   </tr>
+  <tr>
+    <td width="33%"><img src="./assets/images/add_exam.png" alt="Add Exam" /></td>
+    <td width="33%"><img src="./assets/images/add_habit.png" alt="Add Habit" /></td>
+    <td width="33%"><img src="./assets/images/chat_v2.png" alt="AI Context" /></td>
+  </tr>
+  <tr align="center">
+    <td><b>Sınav Takibi</b></td>
+    <td><b>Alışkanlık Yönetimi</b></td>
+    <td><b>Bağlamsal Rehberlik</b></td>
+  </tr>
 </table>
 
 ## 🏁 Başlangıç
