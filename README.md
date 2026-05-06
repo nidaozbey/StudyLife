@@ -65,17 +65,17 @@ src/
   <tr align="center">
     <td><b>Akıllı Panel</b></td>
     <td><b>AI Study Buddy</b></td>
-    <td><b>Dinamik Program</b></td>
+    <td><b>Haftalık Program</b></td>
   </tr>
   <tr>
     <td width="33%"><img src="./assets/images/insights.png" alt="Insights" /></td>
     <td width="33%"><img src="./assets/images/timer.png" alt="Timer" /></td>
-    <td width="33%"></td>
+    <td width="33%"><img src="./assets/images/add_lesson.png" alt="Add Lesson" /></td>
   </tr>
   <tr align="center">
     <td><b>Analitik İçgörüler</b></td>
     <td><b>Odaklanma Sayacı</b></td>
-    <td></td>
+    <td><b>Ders Yönetimi</b></td>
   </tr>
 </table>
 
